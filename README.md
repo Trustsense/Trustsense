@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Trustsense
+- 👀 I’m interested in programming in Lua.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me, Trustsense#8185.
